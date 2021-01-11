@@ -1,0 +1,11 @@
+E:\web_cukcuk_project\code\MS2_DoTrongDuc.Common\bin\Debug\netcoreapp3.1\MS2_DoTrongDuc.Common.deps.json
+E:\web_cukcuk_project\code\MS2_DoTrongDuc.Common\bin\Debug\netcoreapp3.1\MS2_DoTrongDuc.Common.dll
+E:\web_cukcuk_project\code\MS2_DoTrongDuc.Common\bin\Debug\netcoreapp3.1\MS2_DoTrongDuc.Common.pdb
+E:\web_cukcuk_project\code\MS2_DoTrongDuc.Common\obj\Debug\netcoreapp3.1\MS2_DoTrongDuc.Common.AssemblyInfoInputs.cache
+E:\web_cukcuk_project\code\MS2_DoTrongDuc.Common\obj\Debug\netcoreapp3.1\MS2_DoTrongDuc.Common.AssemblyInfo.cs
+E:\web_cukcuk_project\code\MS2_DoTrongDuc.Common\obj\Debug\netcoreapp3.1\MS2_DoTrongDuc.Common.csproj.CoreCompileInputs.cache
+E:\web_cukcuk_project\code\MS2_DoTrongDuc.Common\obj\Debug\netcoreapp3.1\MS2_DoTrongDuc.Common.dll
+E:\web_cukcuk_project\code\MS2_DoTrongDuc.Common\obj\Debug\netcoreapp3.1\MS2_DoTrongDuc.Common.pdb
+E:\web_cukcuk_project\code\MS2_DoTrongDuc.Common\obj\Debug\netcoreapp3.1\MS2_DoTrongDuc.Common.csprojAssemblyReference.cache
+E:\web_cukcuk_project\code\MS2_DoTrongDuc.Common\obj\Debug\netcoreapp3.1\MS2_DoTrongDuc.Common.Properties.Resources.resources
+E:\web_cukcuk_project\code\MS2_DoTrongDuc.Common\obj\Debug\netcoreapp3.1\MS2_DoTrongDuc.Common.csproj.GenerateResource.cache
